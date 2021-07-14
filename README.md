@@ -17,6 +17,6 @@ Passwords with higher length and special characters makes it much harder to crac
 ![image](https://user-images.githubusercontent.com/58340159/125664474-1bfbb5a3-3919-4f52-a645-39f73bb94652.png)
 ![image](https://user-images.githubusercontent.com/58340159/125664497-0b691e85-1fad-4284-b728-ef41f1170bc7.png)
 
-<img src="https://user-images.githubusercontent.com/58340159/125664346-129a763e-a858-49fc-a18e-1d1e53712941.png" width="48vw">
-<img src="https://user-images.githubusercontent.com/58340159/125664431-218f696b-b50d-44d3-8358-5ab1c38803f8.png" width="48vw">
+<img src="https://user-images.githubusercontent.com/58340159/125664346-129a763e-a858-49fc-a18e-1d1e53712941.png" width="48%" style="display:flex;">
+<img src="https://user-images.githubusercontent.com/58340159/125664431-218f696b-b50d-44d3-8358-5ab1c38803f8.png" width="48%" style="display:flex;">
 
