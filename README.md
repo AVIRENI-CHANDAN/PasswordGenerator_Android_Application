@@ -6,5 +6,5 @@ Passwords with higher length and special characters makes it much harder to crac
 
 ## Team members:
 #### N Sathvik Reddy
-<a href = "https://github.com/AVIRENI-CHANDAN">Avireni Chandan</a>
+<a href = "https://github.com/AVIRENI-CHANDAN">Avireni Chandan</a><br>
 <a href = "https://github.com/Ethan-Hunt-21">Inguva Anurag Sai</a>
