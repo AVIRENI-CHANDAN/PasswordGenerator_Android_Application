@@ -7,7 +7,7 @@ Passwords with higher length and special characters makes it much harder to crac
 ## Project done by:
 <a href = "https://github.com/N-Sathvik-Reddy">N Sathvik Reddy</a><br>
 <a href = "https://github.com/AVIRENI-CHANDAN">Avireni Chandan</a><br>
-<a href = "https://github.com/Ethan-Hunt-21">Inguva Anurag Sai</a><br>
+<a href = "https://github.com/Anurag-Sai-Inguva">Inguva Anurag Sai</a><br>
 <hr>
 
 ![image](https://user-images.githubusercontent.com/58340159/125664346-129a763e-a858-49fc-a18e-1d1e53712941.png)
