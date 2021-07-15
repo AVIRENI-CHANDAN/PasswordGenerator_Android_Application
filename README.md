@@ -5,7 +5,7 @@ This application can be used to assist the user in password choosing with specia
 Passwords with higher length and special characters makes it much harder to crack, so as to make the password stronger it is given the special characaters are added to the password.
 
 ## Project done by:
-#### N Sathvik Reddy
+<a href = "https://github.com/N-Sathvik-Reddy">N Sathvik Reddy</a><br>
 <a href = "https://github.com/AVIRENI-CHANDAN">Avireni Chandan</a><br>
 <a href = "https://github.com/Ethan-Hunt-21">Inguva Anurag Sai</a><br>
 <hr>
